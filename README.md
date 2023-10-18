@@ -229,4 +229,4 @@ Dashboard provides information about the overall level of satisfaction or feelin
 
 **Meaning**: Correlation between level of brand interest and first reaction when receiving the product
 
-**Insiht**: Companies with Neutral, Positive, Negative lines are mainly around 100k Google and McDonald's are two companies with almost the same amount of Neutral, Negative, Positive responses.
+**Insight**: Companies with Neutral, Positive, Negative lines are mainly around 100k Google and McDonald's are two companies with almost the same amount of Neutral, Negative, Positive responses.
